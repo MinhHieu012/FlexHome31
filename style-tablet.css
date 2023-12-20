@@ -1,0 +1,51 @@
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+    .container {
+        width: 100%;
+        display: block;
+    }
+
+    .left {
+        width: 100%;
+        height: 1050px;
+    }
+
+    .leftMain {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .right {
+        width: 100%;
+        height: 1050px;
+    }
+
+    .left__header {
+        width: 100%;
+    }
+
+    .buildingSelect {
+        width: 100%;
+    }
+
+    .left__body {
+        width: 100%;
+    }
+
+    .left__body__left {
+        width: 80%;
+    }
+
+    .left__footer {
+        width: 100%;
+    }
+
+    .right__top {
+        width: 100%;
+        padding: 50px 50px 0 50px;
+    }
+
+    .right__top img {
+        width: 100%;
+        height: 100%;
+    }
+}   
